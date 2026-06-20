@@ -1,4 +1,4 @@
-#  Truss Optimization using Finite Element Analysis and Genetic Algorithm in C++
+#  Truss Weight Optimization using Finite Element Analysis and Genetic Algorithm in C++
 
 A C++ implementation of a 2D truss analysis and optimization framework using the Finite Element Method (FEM) and Genetic Algorithms (GA). The project combines numerical methods, matrix computations, and evolutionary optimization to obtain lightweight structural designs while satisfying stress constraints.
 
